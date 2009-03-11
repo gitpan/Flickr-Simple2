@@ -1,0 +1,6 @@
+Revision history for Perl extension Flickr::Simple2.
+
+0.01  Thu Feb 12 11:33:35 2009
+	- original version; created by h2xs 1.23 with options
+		-XA -n Flickr::Simple2
+
