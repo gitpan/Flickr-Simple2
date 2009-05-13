@@ -8,6 +8,7 @@ WriteMakefile(
     PREREQ_PM         => {
                             'Carp' => 0,
                             'Digest::MD5' => 0,
+                            'Exception::Class::TCF' => 0.03,
                             'Iterator::Simple' => 0.05,
                             'LWP::Simple' => 5.8,
                             'URI' => 1.3,
